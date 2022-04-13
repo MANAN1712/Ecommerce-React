@@ -1,0 +1,19 @@
+/* .list:hover {
+  background-color: none;
+
+  {
+    animation:ir 4s forwards;
+  } @keyframes ir {
+    from {transform:rotate(0)}
+    to {transform:rotate(0)}
+  }
+}
+  .list-unstyled:hover{
+
+    background-color: none;
+
+    animation:r 20s forwards;
+  } @keyframes r {
+    from {transform:rotate(0)}
+    to {transform:rotate(0)}
+  } */
